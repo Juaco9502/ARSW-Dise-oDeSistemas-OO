@@ -9,7 +9,7 @@ Write a program to calculate the mean and standard deviation of a set of n real 
 3. Total LOC (315/7) =  45 LOC
 
 # DESIGN
-![Diagram](img/diagram.PNG)
+![Design](img/design.PNG)
 
 # TEST REPORT
 ![Test1](img/test1.PNG)
