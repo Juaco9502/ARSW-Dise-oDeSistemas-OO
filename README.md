@@ -6,10 +6,10 @@ Write a program to calculate the mean and standard deviation of a set of n real 
 
 1. 7:00 am - 12:00 pm - fueron en total  172 LOC
 2. 2:00 pm - 4:40 pm - fueron en total  143 LOC
-Total LOC (315/7) =  45 LOC
+3. Total LOC (315/7) =  45 LOC
 
 # DESIGN
-![Diagram](img/diagram.JPEG)
+![Diagram](img/diagram.PNG)
 
 # TEST REPORT
 ![Test1](img/test1.PNG)
